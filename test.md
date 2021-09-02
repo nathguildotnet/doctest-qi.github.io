@@ -1,9 +1,0 @@
-# whaoouu
-
-```javascript
-
-export default{
-    
-}
-
-```
